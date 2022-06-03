@@ -8,7 +8,7 @@ from jupyter_dash import JupyterDash
 import plotly.graph_objects as go
 import plotly.express as px
 from dash import no_update
-import plotly.io as pio
+
 
 # Create a dash application
 app = JupyterDash(__name__)
